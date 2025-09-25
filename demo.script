@@ -1,0 +1,5 @@
+ls
+cd /tmp
+something_wrong
+ls qwerty
+exit
